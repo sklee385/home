@@ -3,4 +3,4 @@ layout: default
 ---
 
 ## guide
-- [guide](/guide.html)
+- [guide](./guide.html)
