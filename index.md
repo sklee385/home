@@ -13,9 +13,10 @@ layout: default
 
 ## 개발
 - [nodejs](./md/nodejs)
+- [typescript](./md/typescript)
 
 ## 형상관리 
-- [git](git)
+- [git](md/git)
 
 
 ## guide
