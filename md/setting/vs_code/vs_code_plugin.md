@@ -8,4 +8,11 @@ layout: default
     > 파일 아이콘 추가
 - Project Manager 
     > 프로젝트 관리 
-    
+- HTML Snippets
+    > html 자동 완성
+- Rainbow Brackets
+    > 블록마다 다른 컬러
+- npm Intellisense
+    > require('') 할때 자동 완성
+- Path Intellisense
+    > 주소 자동 완성
