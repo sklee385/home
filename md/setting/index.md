@@ -12,7 +12,7 @@ layout: default
 
 ## edit
 - [vs code](./vs_code)
-- [atom](https://atom.io/)
+- [atom](./atom)
 - [eclipse](./eclipse/)
 - [intelliJ](https://www.jetbrains.com/idea/)
 
