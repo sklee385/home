@@ -11,13 +11,10 @@ layout: default
 - [git](https://git-scm.com/)
 
 ## edit
-- [vs code](https://code.visualstudio.com/)
-    - [설치 플러그인](./vs_code/vs_code_plugin.html)
-    - [초기세팅](./vs_code/vs_code_config.html)
+- [vs code](./vs_code)
 - [atom](https://atom.io/)
-- [eclipse](https://www.eclipse.org/downloads/)
+- [eclipse](./eclipse/)
 - [intelliJ](https://www.jetbrains.com/idea/)
-    - [자세한세팅](./intelliJ/intelliJ.html)
 
 ## DB Client
 - [mysql workbench](https://dev.mysql.com/downloads/workbench/)
