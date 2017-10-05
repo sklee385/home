@@ -12,7 +12,8 @@ layout: default
 
 ## edit
 - [vs code](https://code.visualstudio.com/)
-    - [](./vs_code_plugin.html)설치 플러그인
+    - [설치 플러그인](./vs_code/vs_code_plugin.html)
+    - [초기세팅](./vs_code/vs_code_config.html)
 - [atom](https://atom.io/)
 - [eclipse](https://www.eclipse.org/downloads/)
 - [intelliJ](https://www.jetbrains.com/idea/)
