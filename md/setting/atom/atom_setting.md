@@ -4,6 +4,7 @@ layout: default
 ## Settings > Editor
 - Show Indent Guide: true // 들여쓰기 가이드라인을 표시.
 - Tab Length: 4 // 탭의 크기를 공백 몇 칸으로 표시.
+
 ## Settings > Packages > Core Packages
 - Autosave  
     초점이 빠지거나 ;파일이 닫힐 때 자동으로 저장
