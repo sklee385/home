@@ -17,7 +17,7 @@ layout: default
 - [atom](https://atom.io/)
 - [eclipse](https://www.eclipse.org/downloads/)
 - [intelliJ](https://www.jetbrains.com/idea/)
-    - [자세한세팅](./intelliJ.html)
+    - [자세한세팅](./intelliJ/intelliJ.html)
 
 ## DB Client
 - [mysql workbench](https://dev.mysql.com/downloads/workbench/)
