@@ -6,6 +6,7 @@ layout: default
 0. [guide](#guide)
 1. [기본세팅](#setting)
 2. [개발](#개발)
+3. [형상관리](#형상관리)
 
 ## [](#setting) 개발 기본 세팅 
 - [기본세팅](./md/setting)
@@ -13,6 +14,8 @@ layout: default
 ## 개발
 - [nodejs](./md/nodejs)
 
+## 형상관리 
+- [git](git)
 
 
 ## guide
