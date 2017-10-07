@@ -7,7 +7,7 @@ layout: default
    
 1. server client 
     1. 공개키 접속 
-        - http://bcho.tistory.com/1103
+        - [http://bcho.tistory.com/1103](http://bcho.tistory.com/1103)
         1. git-bash 에서 다음 명령어를 친다. 
             ```$xslt
             ssh-keygen -t rsa -C "구글계정명"
@@ -29,7 +29,7 @@ layout: default
             ssh -i ~/.ssh/지정한이름 구글계정명@아이피
             ```
     2. putty 등록후 접속 
-        - http://stove99.tistory.com/172
+        - [http://stove99.tistory.com/172](http://stove99.tistory.com/172)
         
     3. intelliJ remote 사용 
         - 인텔리 J 같은 경우는 open ssh 키를 사용한다. 
