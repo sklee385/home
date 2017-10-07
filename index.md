@@ -18,6 +18,12 @@ layout: default
 ## 형상관리 
 - [git](md/git)
 
+## server 
+- [google cloud](md/googlecloud)
+
+## 레드마인 
+- [redmine](md/redmine)
+
 ## lint 
 - [lint](md/lint)
 

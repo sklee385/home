@@ -1,0 +1,4 @@
+## typescript config 
+- tsconfig.json
+
+    - 
