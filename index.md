@@ -9,7 +9,8 @@ layout: default
 3. [형상관리](#형상관리)
 4. [서버](#서버)
 5. [lint](#lint)
-6. [DBClient](#DBClient )
+6. [DBClient](#DBClient)
+7. [chrome](chrome)
 
 ## 개발기본세팅
 - [기본세팅](./md/setting)
@@ -22,9 +23,6 @@ layout: default
 ## 형상관리
 - [git](md/git)
 
-# DBClient
-- [mysql workbench](md/mysql_workbench)
-
 ## 서버
 - [google cloud](md/googlecloud)
 
@@ -34,6 +32,11 @@ layout: default
 ## lint
 - [lint](md/lint)
 
+## DBClient
+- [mysql workbench](md/mysql_workbench)
+
+## chrome
+- [chrome_app_create](md/chrome_app_create)
 
 ## guide
 - [guide](./guide.html)
