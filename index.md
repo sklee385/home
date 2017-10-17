@@ -10,7 +10,7 @@ layout: default
 4. [서버](#서버)
 5. [lint](#lint)
 6. [DBClient](#DBClient)
-7. [chrome](chrome)
+7. [chrome](#chrome)
 
 ## 개발기본세팅
 - [기본세팅](./md/setting)
@@ -36,7 +36,7 @@ layout: default
 - [mysql workbench](md/mysql_workbench)
 
 ## chrome
-- [chrome_app_create](md/chrome_app_create)
+- [chrome_app](md/chrome_app)
 
 ## guide
 - [guide](./guide.html)
