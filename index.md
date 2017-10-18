@@ -19,6 +19,7 @@ layout: default
 - [nodejs](./md/nodejs)
 - [typescript](./md/typescript)
 - [PHP](md/php)
+- [python](md/python)
 
 ## 형상관리
 - [git](md/git)
