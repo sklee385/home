@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-# express > cookies 
+## express > cookies 
 
 1. 설치 
     - express cookies 설치 되어 있는지 확인 
@@ -36,6 +36,40 @@ layout: default
                 res.cookie("count",1); 
             });
             ```
-        2. 옵션 사용
-            
+        2. 암호 시간 설정
+            ```
+            res.cookie("td",1,{
+                maxAge : 60*60*1000,    // 한시간 유지
+            });
+            ```
+            - 밀리 세컨드 가 기준
+4. 쿠키 암호화
+    ```
+    app.use(cookieParser('암호화키 입력'));
+
+    // 쿠키 암호화
+    app.get('/signedCookies',(req,res)=>{
+        // 쿠키 정보 암호화 세팅
+        res.cookie("count","1",{
+            signed : true
+        });
+        // 암호화 된 쿠키 확인
+        console.log(req.signedCookies)
+        res.send("쿠키 암호화");
+    });
+
+    ``` 
+    1. 쿠키 정보 확인하기
+        ```
+        console.log(req.signedCookies)
+        ```
+        - signedCookies 값을 사용해서 확인 가능하다
+    2. 쿠키 정보 세팅하기 
+        ```
+        res.cookie("count","1",{
+            signed : true
+        });
+        ```
+        - 옵션 값에 signed : true 를 넣어주면 된다.
+        - maxAge 설정을 넣어서 시간 설정 가능
     
