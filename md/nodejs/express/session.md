@@ -29,5 +29,9 @@ layout: default
     res.session.a = 1;
     console.log(res.session.a);
     ```
-
-
+4. 세션 삭제
+    - 선택 삭제 
+        ```
+        delete req.session.displayName;
+        ```
+        
