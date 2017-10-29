@@ -3,6 +3,7 @@ layout: default
 ---
 - file에 세션 저장
 - express 용으로 만들어짐 
+
 1. 설치 
     - 설치 확인 
         ```
@@ -26,3 +27,5 @@ layout: default
     option을 json 형식으로 주면 된다. 
 3. 사용법
     - 세션 사용방법과 동일
+4. 주의 사항
+    - session 이라는 파일이 생성
