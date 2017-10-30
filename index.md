@@ -11,6 +11,7 @@ layout: default
 5. [lint](#lint)
 6. [DBClient](#DBClient)
 7. [chrome](#chrome)
+8. [server](#server)
 
 ## 개발기본세팅
 - [기본세팅](./md/setting)
@@ -38,6 +39,9 @@ layout: default
 
 ## chrome
 - [chrome_app](md/chrome_app)
+
+## server 
+- [aws](md/aws)
 
 ## guide
 - [guide](./guide.html)
