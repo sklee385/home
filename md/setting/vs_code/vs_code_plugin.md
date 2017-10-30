@@ -24,5 +24,6 @@ layout: default
         "pasteImage.path": "./img/",
         ```
         을 설정해 줘야 한다.
-        
+    - 이미지 붙여 넣기 단축키는 ctrl + alt + v
+    
 
