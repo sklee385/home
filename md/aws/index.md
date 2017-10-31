@@ -6,3 +6,4 @@ layout: default
 - [아마존 사이트](https://aws.amazon.com/ko/)
 - [가입](join.html)
 - [보안](security.html)
+- [ES2][es2.html]
