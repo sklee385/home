@@ -13,7 +13,7 @@ layout: default
 7. [chrome](#chrome)
 8. [server](#server)
 
-## 개발기본세팅
+## 개발기본세팅 
 - [기본세팅](./md/setting)
 
 ## 개발
