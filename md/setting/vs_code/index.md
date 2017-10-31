@@ -8,3 +8,4 @@
 ---
 - [설치 플러그인](./vs_code_plugin.html)
 - [초기세팅](./vs_code_config.html)
+- [터미널 git bash 로 변경](terminal_gitbash.html)
