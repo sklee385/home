@@ -7,7 +7,7 @@ layout: default
 - [아마존 사이트](https://aws.amazon.com/ko/)
     - [자습서](https://aws.amazon.com/ko/getting-started/tutorials/)
     - [월 사용량 계산기](http://calculator.s3.amazonaws.com/index.html?lng=ko_KR#/)
-    
+- [tip](tip.html)
 - [가입](join.html)
 - [보안](security.html)
 - ES2
