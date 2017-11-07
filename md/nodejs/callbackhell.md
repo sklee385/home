@@ -13,26 +13,37 @@
 - npm install --save async
 
 ## 사용법
-1. waterfall 사용
+1. waterfall 사용     
+    ```js
+    var async = require('async');
+    var fs = require('fs');
+    var mysql = require('mysql');
 
-    ```
-    const async = require('async');
-
-    async.waterfall([
-        function(callback) {
-            callback(null, 'one', 'two');
+    var tasks = [
+        function (callback) {
+            console.log(1)
+            var result = 'a';
+            callback(null, result);
+            
         },
-        function(arg1, arg2, callback) {
-            // arg1 now equals 'one' and arg2 now equals 'two'
-            callback(null, 'three');
+        function (data, callback) {
+            console.log(2)
+            console.log(data)       //  a
+            var result = 'b';
+            callback(null, result);
+            
         },
-        function(arg1, callback) {
-            // arg1 now equals 'three'
-            callback(null, 'done');
+        function (data, callback) {
+            console.log(3)
+            console.log(data);      // b
+            callback(null)
         }
-    ], function (err, result) {
-        // result now equals 'done'
+    ];
+
+    async.waterfall(tasks, function (err) {
+        if (err)
+            console.log('err');
+        else
+            console.log('done');
     });
     ```
-
-2.
