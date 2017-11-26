@@ -26,8 +26,8 @@ layout: default
     ```
 3. 사용법
     ```
-    res.session.a = 1;
-    console.log(res.session.a);
+    req.session.a = 1;
+    console.log(req.session.a);
     ```
 4. 세션 삭제
     - 선택 삭제 
