@@ -14,3 +14,4 @@ layout: default
 ---
 ## 정리
 - [플러그인][./plugin.html]
+- [nodejs 세팅][nodejsSetting.html]
